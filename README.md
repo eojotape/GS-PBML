@@ -16,13 +16,13 @@ onde são classificados e transformados em **relatórios em linguagem natural
 | Nome | RM |
 | --- | --- |
 | João Pedro de Albuquerque Oliveira | 551579 |
-| Pedro Augusto Carneiro Barone Bomfim | 99781 |
+| Pedro Augusto Carneiro Barone Bomfim | 99781 | 
 | Matheus Augusto Santos Rego | 551466 |
 
 
 ## Vídeo demonstrativo
 
-▶️ **[Assista no YouTube](https://youtube.com/COLOQUE-O-LINK-AQUI)** (até 6 minutos)
+▶️ **[Assista no YouTube]()**
 
 ## O problema
 
@@ -120,7 +120,7 @@ powerbank, resistores (5 × 330 Ω, 1 × 10 kΩ). Mapa de pinos, esquema e fotos
 | L298N ENA, IN1, IN2 | 25, 26, 27 |
 | L298N ENB, IN3, IN4 | 33, 32, 21 |
 
-<img src="docs/imagens/carrinho-antes-dht22.webp" alt="Carrinho antes do DHT22" width="40%">
+<img src="docs/imagens/carrinho-com-dht22.jpg" alt="Carrinho com o DHT22 instalado" width="60%">
 
 ## Instalação e execução
 
