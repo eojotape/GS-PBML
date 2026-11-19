@@ -1,0 +1,30 @@
+# Credenciais locais: NUNCA versionar a senha do Wi-Fi
+firmware/carrinho/wifi_config.h
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build do Arduino / ESP32
+build/
+.build/
+*.elf
+*.bin
+*.map
+*.o
+*.a
+
+# Saidas geradas pelo monitor (exemplos versionados ficam em dados/ e relatorios/)
+python/leituras.csv
+python/relatorios/
+leituras.csv
+relatorios/relatorio_*.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

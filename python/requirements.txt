@@ -1,0 +1,4 @@
+# monitor_ia.py e simulador_carrinho.py usam apenas a biblioteca padrao do Python 3.9+.
+# A dependencia abaixo so e necessaria para o relatorio via LLM (opcional, uso pago da API).
+# Sem ela, rode o monitor com --sem-llm.
+anthropic>=0.40
