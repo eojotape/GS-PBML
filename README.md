@@ -22,7 +22,7 @@ onde são classificados e transformados em **relatórios em linguagem natural
 
 ## Vídeo demonstrativo
 
-▶️ **[Assista no YouTube]()**
+▶️ **[Assista no YouTube](https://youtu.be/Xf1fDxl50T4)**
 
 ## O problema
 
